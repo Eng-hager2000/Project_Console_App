@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "first_name": "Hagar",
+        "last_name": "serag",
+        "email": "hagerserag2000@gmail.com",
+        "password": "hagar112000",
+        "mobile_phone": "01123280885"
+    },
+    {
+        "id": 2,
+        "first_name": "alaa",
+        "last_name": "serag",
+        "email": "alaaserag2006@gmail.com",
+        "password": "alaa2000@",
+        "mobile_phone": "01123280885"
+    },
+    {
+        "id": 3,
+        "first_name": "Hagar",
+        "last_name": "Serag",
+        "email": "mserag509@gmail.com",
+        "password": "Hagar2000",
+        "mobile_phone": "01123280885"
+    }
+]
